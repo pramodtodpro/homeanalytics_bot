@@ -1,0 +1,17 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.9.0",
+    "botbuilder-azure": "^3.0.2",
+    "dotenv-extended": "^2.0.1",
+    "restify": "^5.1.0"
+  }
+}
